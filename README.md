@@ -8,4 +8,4 @@ Classes used for YOLO (v8nano) segmentational model are:
 3. buoy
 4. pipe
 
-Proportional controller and interaction matrix for surge and yaw motions are applied.
+Proportional controller and interaction matrix for surge and yaw motions are applied in the function visual_servoing_callback in listenerMIR.

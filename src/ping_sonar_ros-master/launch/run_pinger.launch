@@ -1,0 +1,10 @@
+<launch>		
+	<group> 
+	<arg name="namespace" default="bluerov2"/>
+
+	<node pkg="ping_sonar_ros" exec="ping1d_node" name="ping1d_node" namespace="$(var namespace)" output="screen">
+	</node>		
+		
+	</group>
+</launch>	
+

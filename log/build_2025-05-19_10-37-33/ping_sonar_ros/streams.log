@@ -1,0 +1,26 @@
+[0.699s] Invoking command in '/home/mir/ros2_ws/src/ping_sonar_ros-master': PYTHONPATH=/home/mir/ros2_ws/build/ping_sonar_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ping_sonar_ros build --build-base /home/mir/ros2_ws/build/ping_sonar_ros/build install --record /home/mir/ros2_ws/build/ping_sonar_ros/install.log --single-version-externally-managed install_data
+[0.919s] running egg_info
+[0.920s] writing ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/PKG-INFO
+[0.920s] writing dependency_links to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/dependency_links.txt
+[0.920s] writing entry points to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/entry_points.txt
+[0.920s] writing requirements to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/requires.txt
+[0.920s] writing top-level names to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/top_level.txt
+[0.922s] reading manifest file '../../build/ping_sonar_ros/ping_sonar_ros.egg-info/SOURCES.txt'
+[0.922s] adding license file 'LICENSE'
+[0.923s] writing manifest file '../../build/ping_sonar_ros/ping_sonar_ros.egg-info/SOURCES.txt'
+[0.923s] running build
+[0.923s] running build_py
+[0.923s] copying ping_sonar_ros/ping1d_component.py -> /home/mir/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.924s] running install
+[0.924s] running install_lib
+[0.925s] copying /home/mir/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping1d_component.py -> /home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.926s] byte-compiling /home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping1d_component.py to ping1d_component.cpython-310.pyc
+[0.928s] running install_data
+[0.929s] running install_egg_info
+[0.931s] removing '/home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[0.931s] Copying ../../build/ping_sonar_ros/ping_sonar_ros.egg-info to /home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros-0.0.0-py3.10.egg-info
+[0.933s] running install_scripts
+[0.952s] Installing ping1d_node script to /home/mir/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+[0.952s] Installing range_node script to /home/mir/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+[0.952s] writing list of installed files to '/home/mir/ros2_ws/build/ping_sonar_ros/install.log'
+[0.973s] Invoked command in '/home/mir/ros2_ws/src/ping_sonar_ros-master' returned '0': PYTHONPATH=/home/mir/ros2_ws/build/ping_sonar_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ping_sonar_ros build --build-base /home/mir/ros2_ws/build/ping_sonar_ros/build install --record /home/mir/ros2_ws/build/ping_sonar_ros/install.log --single-version-externally-managed install_data

@@ -1,0 +1,75 @@
+[0.601s] Invoking command in '/home/sysmer/ros2_ws/src/ping_sonar_ros-master': PYTHONPATH=/home/sysmer/ros2_ws/build/ping_sonar_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ping_sonar_ros build --build-base /home/sysmer/ros2_ws/build/ping_sonar_ros/build install --record /home/sysmer/ros2_ws/build/ping_sonar_ros/install.log --single-version-externally-managed install_data
+[0.780s] running egg_info
+[0.781s] creating ../../build/ping_sonar_ros/ping_sonar_ros.egg-info
+[0.781s] writing ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/PKG-INFO
+[0.782s] writing dependency_links to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/dependency_links.txt
+[0.782s] writing entry points to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/entry_points.txt
+[0.782s] writing requirements to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/requires.txt
+[0.782s] writing top-level names to ../../build/ping_sonar_ros/ping_sonar_ros.egg-info/top_level.txt
+[0.782s] writing manifest file '../../build/ping_sonar_ros/ping_sonar_ros.egg-info/SOURCES.txt'
+[0.785s] reading manifest file '../../build/ping_sonar_ros/ping_sonar_ros.egg-info/SOURCES.txt'
+[0.786s] adding license file 'LICENSE'
+[0.786s] writing manifest file '../../build/ping_sonar_ros/ping_sonar_ros.egg-info/SOURCES.txt'
+[0.786s] running build
+[0.786s] running build_py
+[0.787s] creating /home/sysmer/ros2_ws/build/ping_sonar_ros/build
+[0.787s] creating /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib
+[0.787s] creating /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.787s] copying ping_sonar_ros/__init__.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.788s] copying ping_sonar_ros/ping1d_node.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.788s] copying ping_sonar_ros/range_pub_node.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.788s] copying ping_sonar_ros/ping1d_component.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.788s] copying ping_sonar_ros/range_pub_component.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros
+[0.788s] creating /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python
+[0.789s] creating /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.789s] copying ping_sonar_ros/ping-python/brping/definitions.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.789s] copying ping_sonar_ros/ping-python/brping/pingmessage.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.789s] copying ping_sonar_ros/ping-python/brping/__init__.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.790s] copying ping_sonar_ros/ping-python/brping/ping360.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.790s] copying ping_sonar_ros/ping-python/brping/device.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.790s] copying ping_sonar_ros/ping-python/brping/ping1d.py -> /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping
+[0.791s] running install
+[0.791s] running install_lib
+[0.791s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.791s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/__init__.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.792s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping1d_node.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.792s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/range_pub_node.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.792s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping1d_component.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.792s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/range_pub_component.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros
+[0.793s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python
+[0.793s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.793s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/definitions.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.793s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/pingmessage.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.793s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/__init__.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.793s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/ping360.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.794s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/device.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.794s] copying /home/sysmer/ros2_ws/build/ping_sonar_ros/build/lib/ping_sonar_ros/ping-python/brping/ping1d.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping
+[0.794s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/__init__.py to __init__.cpython-310.pyc
+[0.794s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping1d_node.py to ping1d_node.cpython-310.pyc
+[0.794s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/range_pub_node.py to range_pub_node.cpython-310.pyc
+[0.795s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping1d_component.py to ping1d_component.cpython-310.pyc
+[0.795s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/range_pub_component.py to range_pub_component.cpython-310.pyc
+[0.795s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/definitions.py to definitions.cpython-310.pyc
+[0.796s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/pingmessage.py to pingmessage.cpython-310.pyc
+[0.799s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/__init__.py to __init__.cpython-310.pyc
+[0.799s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/ping360.py to ping360.cpython-310.pyc
+[0.801s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/device.py to device.cpython-310.pyc
+[0.802s] byte-compiling /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros/ping-python/brping/ping1d.py to ping1d.cpython-310.pyc
+[0.805s] running install_data
+[0.805s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ament_index
+[0.805s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ament_index/resource_index
+[0.805s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ament_index/resource_index/packages
+[0.805s] copying resource/ping_sonar_ros -> /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ament_index/resource_index/packages
+[0.806s] copying package.xml -> /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros
+[0.806s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch
+[0.806s] copying launch/run_pinger.launch -> /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+[0.806s] copying launch/ping_sonar.launch.py -> /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+[0.806s] creating /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/rviz
+[0.806s] copying rviz/ping_sonar.rviz -> /home/sysmer/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/rviz/
+[0.806s] running install_egg_info
+[0.808s] Copying ../../build/ping_sonar_ros/ping_sonar_ros.egg-info to /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping_sonar_ros-0.0.0-py3.10.egg-info
+[0.809s] running install_scripts
+[0.828s] Installing ping1d_node script to /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+[0.828s] Installing range_node script to /home/sysmer/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+[0.828s] writing list of installed files to '/home/sysmer/ros2_ws/build/ping_sonar_ros/install.log'
+[0.850s] Invoked command in '/home/sysmer/ros2_ws/src/ping_sonar_ros-master' returned '0': PYTHONPATH=/home/sysmer/ros2_ws/build/ping_sonar_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sysmer/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ping_sonar_ros build --build-base /home/sysmer/ros2_ws/build/ping_sonar_ros/build install --record /home/sysmer/ros2_ws/build/ping_sonar_ros/install.log --single-version-externally-managed install_data

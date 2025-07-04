@@ -1,0 +1,23 @@
+running develop
+running egg_info
+writing ping_sonar_ros.egg-info/PKG-INFO
+writing dependency_links to ping_sonar_ros.egg-info/dependency_links.txt
+writing entry points to ping_sonar_ros.egg-info/entry_points.txt
+writing requirements to ping_sonar_ros.egg-info/requires.txt
+writing top-level names to ping_sonar_ros.egg-info/top_level.txt
+reading manifest file 'ping_sonar_ros.egg-info/SOURCES.txt'
+writing manifest file 'ping_sonar_ros.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mir/ros2_ws/install/ping_sonar_ros/lib/python3.10/site-packages/ping-sonar-ros.egg-link (link to .)
+Installing ping1d_node script to /home/mir/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+Installing range_node script to /home/mir/ros2_ws/install/ping_sonar_ros/lib/ping_sonar_ros
+
+Installed /home/mir/ros2_ws/build/ping_sonar_ros
+running symlink_data
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/resource/ping_sonar_ros -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ament_index/resource_index/packages
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/package.xml -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/launch/run_pinger.launch -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/launch/ping_sonar.launch.py -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/launch/run_pinger.launch -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/launch/ping_sonar.launch.py -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/launch/
+symbolically linking /home/mir/ros2_ws/build/ping_sonar_ros/rviz/ping_sonar.rviz -> /home/mir/ros2_ws/install/ping_sonar_ros/share/ping_sonar_ros/rviz/

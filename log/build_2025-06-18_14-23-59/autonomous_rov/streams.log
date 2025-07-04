@@ -1,0 +1,30 @@
+[0.768s] Invoking command in '/home/mir/ros2_ws/src/autonomous_rov': PYTHONPATH=/home/mir/ros2_ws/build/autonomous_rov/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous_rov build --build-base /home/mir/ros2_ws/build/autonomous_rov/build install --record /home/mir/ros2_ws/build/autonomous_rov/install.log --single-version-externally-managed install_data
+[0.914s] running egg_info
+[0.915s] writing ../../build/autonomous_rov/autonomous_rov.egg-info/PKG-INFO
+[0.915s] writing dependency_links to ../../build/autonomous_rov/autonomous_rov.egg-info/dependency_links.txt
+[0.915s] writing entry points to ../../build/autonomous_rov/autonomous_rov.egg-info/entry_points.txt
+[0.915s] writing requirements to ../../build/autonomous_rov/autonomous_rov.egg-info/requires.txt
+[0.915s] writing top-level names to ../../build/autonomous_rov/autonomous_rov.egg-info/top_level.txt
+[0.916s] reading manifest file '../../build/autonomous_rov/autonomous_rov.egg-info/SOURCES.txt'
+[0.917s] writing manifest file '../../build/autonomous_rov/autonomous_rov.egg-info/SOURCES.txt'
+[0.917s] running build
+[0.917s] running build_py
+[0.917s] copying autonomous_rov/image_processing_tracker.py -> /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov
+[0.917s] copying autonomous_rov/listenerMIR.py -> /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov
+[0.917s] running install
+[0.918s] running install_lib
+[0.918s] copying /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov/image_processing_tracker.py -> /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov
+[0.918s] copying /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov/listenerMIR.py -> /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov
+[0.918s] byte-compiling /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov/image_processing_tracker.py to image_processing_tracker.cpython-310.pyc
+[0.919s] byte-compiling /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov/listenerMIR.py to listenerMIR.cpython-310.pyc
+[0.921s] running install_data
+[0.921s] running install_egg_info
+[0.922s] removing '/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov-0.0.0-py3.10.egg-info' (and everything under it)
+[0.922s] Copying ../../build/autonomous_rov/autonomous_rov.egg-info to /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov-0.0.0-py3.10.egg-info
+[0.923s] running install_scripts
+[0.935s] Installing image_processing_tracker script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[0.936s] Installing listenerMIR script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[0.936s] Installing pinger_node script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[0.936s] Installing video script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[0.936s] writing list of installed files to '/home/mir/ros2_ws/build/autonomous_rov/install.log'
+[0.954s] Invoked command in '/home/mir/ros2_ws/src/autonomous_rov' returned '0': PYTHONPATH=/home/mir/ros2_ws/build/autonomous_rov/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/autonomous_rov build --build-base /home/mir/ros2_ws/build/autonomous_rov/build install --record /home/mir/ros2_ws/build/autonomous_rov/install.log --single-version-externally-managed install_data

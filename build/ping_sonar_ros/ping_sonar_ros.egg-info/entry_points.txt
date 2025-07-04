@@ -1,0 +1,4 @@
+[console_scripts]
+ping1d_node = ping_sonar_ros.ping1d_node:main
+range_node = ping_sonar_ros.range_pub_node:main
+

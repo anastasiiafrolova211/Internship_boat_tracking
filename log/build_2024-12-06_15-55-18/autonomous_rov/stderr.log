@@ -1,0 +1,5 @@
+  File "/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov/listenerMIR.py", line 250
+    self.get_logger().info("Mode correction, Current correction value : " self.Correction_yaw)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

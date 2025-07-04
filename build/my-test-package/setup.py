@@ -1,0 +1,1 @@
+/home/mir/ros2_ws/videos/bags2video/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py

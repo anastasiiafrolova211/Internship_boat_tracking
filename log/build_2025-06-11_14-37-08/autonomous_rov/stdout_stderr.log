@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/autonomous_rov/autonomous_rov.egg-info/PKG-INFO
+writing dependency_links to ../../build/autonomous_rov/autonomous_rov.egg-info/dependency_links.txt
+writing entry points to ../../build/autonomous_rov/autonomous_rov.egg-info/entry_points.txt
+writing requirements to ../../build/autonomous_rov/autonomous_rov.egg-info/requires.txt
+writing top-level names to ../../build/autonomous_rov/autonomous_rov.egg-info/top_level.txt
+reading manifest file '../../build/autonomous_rov/autonomous_rov.egg-info/SOURCES.txt'
+writing manifest file '../../build/autonomous_rov/autonomous_rov.egg-info/SOURCES.txt'
+running build
+running build_py
+copying autonomous_rov/image_processing_tracker.py -> /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov
+copying autonomous_rov/image_processing_tracker_2.py -> /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov
+running install
+running install_lib
+copying /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov/image_processing_tracker.py -> /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov
+copying /home/mir/ros2_ws/build/autonomous_rov/build/lib/autonomous_rov/image_processing_tracker_2.py -> /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov
+byte-compiling /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov/image_processing_tracker.py to image_processing_tracker.cpython-310.pyc
+byte-compiling /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov/image_processing_tracker_2.py to image_processing_tracker_2.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/autonomous_rov/autonomous_rov.egg-info to /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous_rov-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_processing_tracker script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+Installing listenerMIR script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+Installing pinger_node script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+Installing video script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+writing list of installed files to '/home/mir/ros2_ws/build/autonomous_rov/install.log'

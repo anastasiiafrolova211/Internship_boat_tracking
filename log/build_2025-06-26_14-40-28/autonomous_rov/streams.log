@@ -1,0 +1,30 @@
+[2.221s] Invoking command in '/home/mir/ros2_ws/build/autonomous_rov': PYTHONPATH=/home/mir/ros2_ws/build/autonomous_rov/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mir/ros2_ws/build/autonomous_rov/build --no-deps symlink_data --force
+[2.732s] running develop
+[2.733s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[2.733s]   warnings.warn(
+[2.968s] running egg_info
+[2.968s] writing autonomous_rov.egg-info/PKG-INFO
+[2.970s] writing dependency_links to autonomous_rov.egg-info/dependency_links.txt
+[2.970s] writing entry points to autonomous_rov.egg-info/entry_points.txt
+[2.970s] writing requirements to autonomous_rov.egg-info/requires.txt
+[2.970s] writing top-level names to autonomous_rov.egg-info/top_level.txt
+[2.974s] reading manifest file 'autonomous_rov.egg-info/SOURCES.txt'
+[2.975s] writing manifest file 'autonomous_rov.egg-info/SOURCES.txt'
+[2.978s] running build_ext
+[2.978s] Creating /home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages/autonomous-rov.egg-link (link to .)
+[2.982s] Installing image_processing_tracker script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[2.982s] Installing listenerMIR script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[2.982s] Installing pinger_node script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[2.982s] Installing video script to /home/mir/ros2_ws/install/autonomous_rov/lib/autonomous_rov
+[2.982s] 
+[2.982s] Installed /home/mir/ros2_ws/build/autonomous_rov
+[2.983s] running symlink_data
+[2.983s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/resource/autonomous_rov -> /home/mir/ros2_ws/install/autonomous_rov/share/ament_index/resource_index/packages
+[2.983s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/package.xml -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov
+[2.983s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/launch/run_gamepad.launch -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/launch
+[2.985s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/launch/run_listener_MIR.launch -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/launch
+[2.986s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/launch/run_video.launch -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/launch
+[2.988s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/launch/run_mavros.launch -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/launch
+[2.988s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/config/xbox.config.yaml -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/config
+[2.988s] symbolically linking /home/mir/ros2_ws/build/autonomous_rov/setup.py -> /home/mir/ros2_ws/install/autonomous_rov/share/autonomous_rov/lib
+[3.040s] Invoked command in '/home/mir/ros2_ws/build/autonomous_rov' returned '0': PYTHONPATH=/home/mir/ros2_ws/build/autonomous_rov/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/autonomous_rov/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mir/ros2_ws/build/autonomous_rov/build --no-deps symlink_data --force

@@ -1,0 +1,15 @@
+[1.491s] Invoking command in '/home/mir/ros2_ws/videos/bags2video/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source': PYTHONPATH=/home/mir/ros2_ws/build/my-test-package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/my-test-package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../../../../../build/my-test-package build --build-base /home/mir/ros2_ws/build/my-test-package/build install --record /home/mir/ros2_ws/build/my-test-package/install.log --single-version-externally-managed
+[1.990s] running egg_info
+[1.996s] writing ../../../../../../../../../build/my-test-package/my_test_package.egg-info/PKG-INFO
+[1.997s] writing dependency_links to ../../../../../../../../../build/my-test-package/my_test_package.egg-info/dependency_links.txt
+[1.997s] writing top-level names to ../../../../../../../../../build/my-test-package/my_test_package.egg-info/top_level.txt
+[1.997s] reading manifest file '../../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'
+[2.004s] writing manifest file '../../../../../../../../../build/my-test-package/my_test_package.egg-info/SOURCES.txt'
+[2.004s] running build
+[2.005s] running install
+[2.005s] running install_egg_info
+[2.005s] removing '/home/mir/ros2_ws/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info' (and everything under it)
+[2.005s] Copying ../../../../../../../../../build/my-test-package/my_test_package.egg-info to /home/mir/ros2_ws/install/my-test-package/lib/python3.10/site-packages/my_test_package-1.0-py3.10.egg-info
+[2.008s] running install_scripts
+[2.040s] writing list of installed files to '/home/mir/ros2_ws/build/my-test-package/install.log'
+[2.074s] Invoked command in '/home/mir/ros2_ws/videos/bags2video/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source' returned '0': PYTHONPATH=/home/mir/ros2_ws/build/my-test-package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mir/ros2_ws/install/my-test-package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../../../../../build/my-test-package build --build-base /home/mir/ros2_ws/build/my-test-package/build install --record /home/mir/ros2_ws/build/my-test-package/install.log --single-version-externally-managed
